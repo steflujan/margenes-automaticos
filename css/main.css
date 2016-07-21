@@ -15,10 +15,9 @@ div {
     padding-left: 30px;
     text-align: center;
     margin: 40px;
-
-
 }
 .cajados {
 	text-align: left;
-	position: center;
+	position: relative;
+	left:400px;
 }
